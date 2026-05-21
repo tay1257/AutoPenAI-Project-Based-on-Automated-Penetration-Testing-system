@@ -145,5 +145,5 @@ MIT — free to use, modify, and distribute with attribution.
 ---
 
 <p align="center">
-  Made with ⬡ AutoPenAI &nbsp;·&nbsp;
+  ⬡ AutoPenAI &nbsp;·&nbsp;
 </p>
