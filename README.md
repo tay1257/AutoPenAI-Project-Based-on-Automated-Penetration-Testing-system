@@ -6,8 +6,6 @@ https://medo.dev/projects/app-bsdkf2x9s0sh/preview
 > Built at **Milan AI Week Hackathon 2026**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-medo.dev-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://medo.dev/projects/app-bsdkf2x9s0sh/preview)
-[![Powered by Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-orange?style=for-the-badge)](https://anthropic.com)
-[![Hackathon](https://img.shields.io/badge/Milan%20AI%20Week-2026-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
 ---
@@ -147,5 +145,5 @@ MIT — free to use, modify, and distribute with attribution.
 ---
 
 <p align="center">
-  Made with ⬡ AutoPenAI &nbsp;·&nbsp; Milan AI Week 2026 &nbsp;·&nbsp; Powered by Claude
+  Made with ⬡ AutoPenAI &nbsp;·&nbsp;
 </p>
